@@ -1,4 +1,4 @@
-**LeetCode Daily Challenge Codes in Python** 🐍
+# **LeetCode Daily Challenge Codes in Python** 🐍
 
 Welcome to my repository for LeetCode Daily Challenge codes in Python! Here you'll find solutions to LeetCode's daily challenges, all implemented in Python for your convenience. 💻
 
